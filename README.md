@@ -15,5 +15,4 @@ This project covers critical user flows to ensure application stability, reliabi
 
 ---
 
-## 📁 Project Structure
 
